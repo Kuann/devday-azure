@@ -1,9 +1,11 @@
 # DevDay on Azure
-Enjoy your DevDay with Azure.
+
+Let deploy your applications in Azure and enjoy It's cool features.
+
 
 # Tools
 
-You have to install these tools below:
+You need to install these tools below:
 
 #### 1. Azure CLI
 
@@ -60,7 +62,7 @@ Your private registry for storing your container images.
 
 https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-acr
 
-### 5. Create a Kubernetes cluster:
+#### 5. Create a Kubernetes cluster:
 
 https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster
 
