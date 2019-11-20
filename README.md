@@ -103,8 +103,6 @@ Create a `classic editor` job that includes tasks such as `maven` builds, `npm`,
 
 https://azure.microsoft.com/en-us/services/devops/
 
-Note: 
-
 # Monitoring
 
 When your application is on cloud. Monitoring is much easier than ever.
