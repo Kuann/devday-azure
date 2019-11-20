@@ -1,6 +1,6 @@
 # DevDay on Azure
 
-Let deploy your applications in Azure and enjoy It's cool features.
+Let deploy your applications to Azure and enjoy it's cool features.
 
 
 # Tools
