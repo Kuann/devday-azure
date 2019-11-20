@@ -6,7 +6,7 @@ This is a shortened guideline and also requirements that you have to fulfill.
 
 It helps you understand the general idea of what you will do. So if there are things that you are not clear, please ask supporters to clarify.
 
-In more details, you will have to research by yourself. But don't worry, supporters are here for questions.
+In more details, you will have to research by yourself. But don't worry, supporters are here to help.
 
 
 # Tools
@@ -43,15 +43,15 @@ https://portal.azure.com/#blade/HubsExtension/BrowseResourceGroups
 
 #### 2. Postgres database on Azure:
 
-You need a database for your application. Let create 1 database server:
+You need database for your application. Let first create a database server `teamname-db-server`:
 
 https://portal.azure.com/#blade/HubsExtension/BrowseResourceBlade/resourceType/Microsoft.DBforPostgreSQL%2Fservers
 
-Now, create a database. `psql` can be used in this case.
+Now, create your database in it. `psql` can be used in this case.
 
 Note:
 
-By default, database servers created are not accessible for other services and the Internet so you need to find a way to re-config it's firewall to open access.
+By default, a database server created are not accessible to other services and the Internet so you need to find a way to re-config it's firewall to open access.
 
 Install necessary extensions for you database if any.
 
@@ -121,6 +121,6 @@ Try to:
 2. Collect error logs.
 3. Metrics.
 4. Alerts.
-5. etc
+5. etc.
 
 https://docs.microsoft.com/en-us/azure/azure-monitor/overview
