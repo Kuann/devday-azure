@@ -2,6 +2,12 @@
 
 Let deploy your applications to Azure and enjoy it's cool features.
 
+This is a shortened guideline and also requirements that you have to fulfill.
+
+It helps you understand the general idea of what you will do. So if there are things that you are not clear, please ask supporters to clarify.
+
+In more details, you will have to research by yourself. But don't worry, supporters are here for questions.
+
 
 # Tools
 
