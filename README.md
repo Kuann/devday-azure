@@ -107,9 +107,9 @@ https://azure.microsoft.com/en-us/services/devops/
 
 When your application is on cloud. Monitoring is much easier than ever.
 
-Azure offer you many cool features for monitoring your applications.
+Azure offers you many cool features for monitoring your applications.
 
-Try to
+Try to:
 
 1. See how Azure lets you know when there are errors.
 2. Collect error logs.
